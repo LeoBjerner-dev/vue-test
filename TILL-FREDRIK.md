@@ -1,0 +1,1 @@
+I App.vue så har jag gjort ett enkelt exempel på hur Vue fungerar. Jag skapar en variabel count med ref, vilket gör den reaktiv. När jag klickar på knappen körs increment och värdet ökar. Vue upptäcker automatiskt förändringen och uppdaterar texten på sidan.
